@@ -3,7 +3,7 @@
 # Stores details about the amount
 # Stores details about the account balance
 # Allows for deposits, withdraw, view_balance
-
+# Practice project to revise OOP
 
 # Parent Class
 class User:
